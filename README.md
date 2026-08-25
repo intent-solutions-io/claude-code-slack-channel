@@ -11,6 +11,8 @@
 [![GitHub forks](https://img.shields.io/github/forks/jeremylongshore/claude-code-slack-channel?style=social)](https://github.com/jeremylongshore/claude-code-slack-channel/network/members)
 [![License: Apache 2.0](https://img.shields.io/badge/license-Apache_2.0-blue.svg)](https://github.com/jeremylongshore/claude-code-slack-channel/blob/main/LICENSE)
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/U5S225PTME)
+
 ---
 
 ## What this is
